@@ -1,19 +1,19 @@
 READ ME 
 
-1) The frmaework is built with the below technologies 
- 		Java 1.7 SE
-		JUnit
-		Maven
-		Cucumber
-		Gherkin
-		Selenium
-		Log4j
-	nPage Object Design Patterm			
+1) The Framework is built with the following technologies: 
+ 		Java 1.7 SE, 
+		JUnit, 
+		Maven, 
+		Cucumber, 
+		Gherkin, 
+		Selenium, 
+		Log4j, 
+		Page Object Design Patterm.			
 
 
-2) The log.log file in the framework needs its path set in Log4j.properties file
+2) The log.log file in the framework needs its path set in Log4j.properties file.
 
-3) The ChromeDriver is compatibe to work with a Mac OS machine only. For Windows please 	use ChromeDriver.exe from the link below :
+3) The ChromeDriver is compatibe to work with a Mac OS machine only. For Windows please use ChromeDriver.exe from the link below :
  	https://chromedriver.storage.googleapis.com/index.html?path=2.31/
 
 3) The drivers are set to work with yor local machine (Mac OS only)
