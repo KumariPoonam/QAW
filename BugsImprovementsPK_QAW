@@ -1,0 +1,42 @@
+
+** as there is no specification it is hard to find any bugs, although as a end user I would suggest a few things for improvements. 
+
+Bugs: No Bugs can be found due to lack of specification. 
+
+Improvements and sugestions: 
+
+1) Confirmation Message 
+
+	When I am on http://qaworks.com and naviagte to the Contact page via the navigation menu
+
+	It would be nicer to tell the user the message is sent. 
+	Although absence of input field error messages indicate that but not noticable by the end user. 
+
+
+2) 	Contact page: Message Box sizing on TAB 
+
+	When I tab through the Email field on to the Message TextArea, the box shrinks in size
+
+	Also when I tab through from Email field I do not reach the Message text area. There is an empty tab frame selected. 
+	Ideally this indicates the user the TAB is not working and has to click the mouse in the Message Box. 
+	For the convinience of the user the next TAB after Email field should be the Message Box. 
+
+
+3)	Contact page: Name filed fieldset could be more specific like First Name / Forename OR 	  Surname/ Last Name. 
+
+4)	Contact page: Name fields do not have definite boundries for the number of chracters or inputs it can take. 
+
+5) 	Contact page: Name field should not take numbers or some special characters. 
+
+6)	Contact page: Message fields do not have definite boundries for the number of chracters or inputs it can take.
+
+7) 	Contact page: Email field shows a validation error message for a few seconds evene when a valid elail address is used. This is not a consistent problem and hard to reproduce. 
+
+8) 	Contact page: When we move to the map area it is hard to scroll up or down as this zooms in and zooms out the map , This also covers the entire scrollable area amking it hard to access the rest of the page functionality. 
+	The user is formced to use the keyboard to acess the rest of the page. Usability issues here. 
+
+9) 	Contact page: The user could be shown a time frame in which he might expect a reply back. 
+
+10) Contact page: There could be a confirmation email sent to the user when a succesful message is snet and recieved by QA Works team. 
+
+
