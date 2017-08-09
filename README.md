@@ -19,7 +19,7 @@ READ ME
 3) The drivers are set to work with yor local machine (Mac OS only)
 	For Windows users please ammend the path to the config.propertie and chromedriver.exe with an extra slash '/'.
 
-4) cucumber HTML reports can be found in the target folder Cucumber HTML report
+4) Cucumber HTML reports can be found in the target folder Cucumber HTML report
 
 5)	The framework can be executed in the follwing ways: 
 		a) use a custome annotation tag in feature file and run from Runwith class
