@@ -8,7 +8,7 @@ READ ME
 		Gherkin
 		Selenium
 		Log4j
-		Page Object Design Patterm			
+	nPage Object Design Patterm			
 
 
 2) The log.log file in the framework needs its path set in Log4j.properties file
